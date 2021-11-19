@@ -7,11 +7,11 @@ Interface com o Chakra UI.
 
 ## Tecnólogias
 
-✔ ReactJs - biblioteca Javascript
-✔ NextJs - biblioteca de desenvolvimento web com renderização do servidor e geração de sites estáticos
-✔ Chakra UI - biblioteca para criação de interfaces
-✔ React Icons - biblioteca de Icones 
-✔ Yup -Biblioteca de validação de formulários
+ - 💹 ReactJs - biblioteca Javascript
+ - 💹 NextJs - biblioteca de desenvolvimento web com renderização do servidor e geração de sites estáticos
+ - 💹 Chakra UI - biblioteca para criação de interfaces
+ - 💹 React Icons - biblioteca de Icones 
+ - 💹 Yup -Biblioteca de validação de formulários
 
 ## Instalação
 
