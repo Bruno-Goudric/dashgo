@@ -1,4 +1,4 @@
-# DashGoD
+# DashGo
 
 ![](src/assets/capa.jpg)
 
